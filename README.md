@@ -1,4 +1,4 @@
-### **AI Dungeon Story Generator 🚀**
+## **AI Dungeon Story Generator 🚀**
 Welcome to the **AI Dungeon Story Generator**! 🎉 This is an interactive application that allows you to create engaging, personalized fantasy stories using **AI** powered by **GPT-2**. With just a simple prompt and genre selection, the AI will generate an endless story that you can continue, save, or share. Whether you're craving a thrilling adventure, a deep mystery, or a magical fantasy, this tool can help bring your imagination to life!
 
 ## ✨ **Features**
